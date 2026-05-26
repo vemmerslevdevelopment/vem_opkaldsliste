@@ -50,6 +50,4 @@ exports['vem_opkaldsliste']:AddAnonymousCall(source, message, job)
 
 ---
 
-## Licens
-
-Apache License 2.0 — se [license](license).
+<img width="1535" height="1024" alt="opkaldsliste-billede" src="https://github.com/user-attachments/assets/1ae8ce19-ad8e-40c8-81e3-eab41cc6c3a3" />
