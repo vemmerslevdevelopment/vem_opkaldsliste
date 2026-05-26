@@ -50,4 +50,4 @@ exports['vem_opkaldsliste']:AddAnonymousCall(source, message, job)
 
 ---
 
-<img width="1535" height="1024" alt="opkaldsliste-billede" src="https://github.com/user-attachments/assets/1ae8ce19-ad8e-40c8-81e3-eab41cc6c3a3" />
+<img width="1280" height="720" alt="Nyt Projekt" src="https://github.com/user-attachments/assets/eecfc6a0-73e6-42cd-8f28-34de9c157661" />
