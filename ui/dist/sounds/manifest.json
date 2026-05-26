@@ -1,0 +1,30 @@
+{
+  "defaultSound": "sound001",
+  "sounds": [
+    {
+      "id": "sound001",
+      "label": "Sound001",
+      "file": "sound001.ogg"
+    },
+    {
+      "id": "sound002",
+      "label": "Sound002",
+      "file": "sound002.ogg"
+    },
+    {
+      "id": "sound003",
+      "label": "Sound003",
+      "file": "sound003.ogg"
+    },
+    {
+      "id": "sound004",
+      "label": "Sound004",
+      "file": "sound004.ogg"
+    },
+    {
+      "id": "sound005",
+      "label": "Sound005",
+      "file": "sound005.ogg"
+    }
+  ]
+}
