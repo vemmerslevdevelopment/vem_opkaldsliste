@@ -49,5 +49,3 @@ exports['vem_opkaldsliste']:AddAnonymousCall(source, message, job)
 *Coords hentes automatisk*
 
 ---
-
-<img width="1280" height="720" alt="Nyt Projekt" src="https://github.com/user-attachments/assets/eecfc6a0-73e6-42cd-8f28-34de9c157661" />
