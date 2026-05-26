@@ -1,1 +1,0 @@
-# vem_opkaldsliste
